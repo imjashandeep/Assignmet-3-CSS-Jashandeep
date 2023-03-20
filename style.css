@@ -1,0 +1,153 @@
+@charset "UTF-8";
+body{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+  font-family: 'Fasthand', cursive;
+font-family: 'Kavoon', cursive;
+font-family: 'Satisfy', cursive;
+
+}
+body{
+    top:0;
+    width: 100vh;
+    height: 100vh;
+    background-image: url(https://www.pricerunner.com/images/logos/207040-315125065.png);
+    background-size: cover;
+  backdrop-filter: blur
+  
+  ;
+}
+photo{
+    float: right;
+    width: 40%;
+    height: 40%;
+    padding: 4px;
+}
+.header{
+    height: 10%;
+}
+
+.header-btn{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 20px;
+    float:right;
+    margin-top: 15px;
+    color: #fff !important;
+    background: darkred;
+    font-weight: 600;
+}
+.movie-details{
+    margin: 3% 0;
+}
+.left-box{
+    color: #fff;
+}
+.casting img{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.left-box{
+    text-decoration: none !important;
+    border-radius: 30px;
+    padding: 7px 20px;
+    margin-top: 15px;
+    color:indianred;
+    background: tranparent;
+    font-weight: 600;
+    display: inline-block;
+    margin-right: 10px;
+}
+.download-btn{
+    border: 1px solid #fff;
+    background: darkred;
+    color: #fff;
+
+}
+.play-btn{
+    border: 1px solid #fff;
+    background: darkred;
+    color: #fff;
+
+}
+
+.fa{
+    margin: 0 5px;
+}
+
+.movies h3{
+    color:#fff
+}
+.movies img{
+    width: 30%;
+    margin-top: 15px;
+}
+.movies img:hover{
+    transform: translateY(-10px);
+}
+
+  footer {
+    background-color: indianred;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+#company-info p {
+    margin: 0;
+    text-align: center;
+}
+
+#contact-form {
+    width: 30%;
+}
+
+#contact-form h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+#contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#contact-form textarea {
+    resize: none;
+}
+
+#contact-form button[type="submit"] {
+    background-color: darkred;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#contact-form button[type="submit"]:hover {
+    background-color: darkred;
+}
+    
+    }
+    
+
+      
+    
